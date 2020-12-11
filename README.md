@@ -1,2 +1,2 @@
-# Class-30
-Slingshots are cool
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
